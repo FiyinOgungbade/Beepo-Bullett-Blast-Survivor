@@ -4,5 +4,7 @@ I fell in love with the concept and refined it over the course of the next summe
 
 
 Game Design : Fiyin Ogungbade
+
 Game Programming : Fiyin Ogungbade
+
 Game Art : Fiyin Ogungbade & Joshua Johnson
